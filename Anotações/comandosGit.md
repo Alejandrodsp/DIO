@@ -1,4 +1,4 @@
-# :key:Comandos de iniciação do *Git*:
+# :key:Comandos do *Git*:
 
 - **`git init`** - inicia o versionamento na pasta em que estiver;
 - **`git config --global user.email "email"`** - configura o ambiente de versionamento para todos os repositórios, com essa identificação de e-mail; em caso da necessidade de alterar isso posteriormente, use *git config --global unset user.email*;
